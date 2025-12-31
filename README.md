@@ -1,3 +1,4 @@
 # Amanmemon_demo
 This is my demo repo
-Author - Aman Memon
+<br>
+Author - <b>Aman Memon</b>
